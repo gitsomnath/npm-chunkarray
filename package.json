@@ -1,0 +1,14 @@
+{
+  "name": "npm-chunkarray",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "npm-chunkarray",
+    "array-split-with-length",
+    "arraychunk-split"
+  ],
+  "author": "Somnath Jana",
+  "license": "ISC"
+}
